@@ -1,7 +1,7 @@
 import { useState } from "react";
 import quotes from "./assets/quotes.json";
 import { FaTwitter, FaQuoteLeft, FaQuoteRight } from "react-icons/fa";
-import App for "./src/App.css";
+import App from "./src/App.css";
 
 interface Quote {
   quote: string;
